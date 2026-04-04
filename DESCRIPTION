@@ -1,0 +1,13 @@
+Package: gwfm
+Title: Fit Generalized Win Fraction Regression Models
+Version: 0.1
+Authors@R: c(person("Zhiqiang", "Cao", email = "zcaoae@connect.ust.hk", role = c("aut","cre")),
+           person("Xi", "Fang", email = "x.fang@yale.edu", role = "aut"),
+           person("Fan", "Li" , email = "fan.f.li@yale.edu", role = "aut"))
+Description: Fit a generalized win fraction regression model as described in Cao, Fang and Li (2026) Generalized win fraction regression for composite survival endpoints, which can obtain parameter coefficients estimation, corresponding standard errors as well as P value.
+License: GPL 
+Depends: R (>= 4.3.0)
+Imports: pim,stats,nleqslv,copula,gumbel,MASS,mvtnorm,survival
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
