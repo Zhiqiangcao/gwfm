@@ -1,0 +1,2 @@
+The code folder includes all R function required in simulation studies, which can reproduce tables 2-4 in main text
+and tables S1-S7 in Web Appendix. Note that the pim.csd.m2.R program in R_programs folder is the predecessor of the gwfm function of our "gwfm" package
